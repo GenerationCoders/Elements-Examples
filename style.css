@@ -1,0 +1,46 @@
+.sentence {
+	font-family: monospace;
+	color: DodgerBlue;
+}
+h1 {
+	font-family: sans-serif;
+}
+#author {
+	color: OrangeRed;
+}
+
+.box-text {
+  font-size: 1.1em;
+  text-align: center;
+}
+
+.box {
+  background: orange;
+  /*background-clip: content-box;*/
+  height: 80px;
+  width: 80px;
+  margin: 2em;
+  margin-top: 0em;
+  border: 1px solid black;
+}
+
+.ap {
+  padding: 10px;
+}
+
+.bp {
+  padding: 4% 5% 6% 7%;
+}
+
+.cp {
+	margin-top: 80px;
+	/*margin-top: 20%;*/
+}
+
+.ep {
+	margin: 0 auto;
+}
+
+.fp {
+	float: right;
+}
